@@ -1,12 +1,12 @@
-body{
+body {
     background-image: url(assets/cliffs.jpg);
     background-size:cover;
 }
-hr{
+hr {
     background: white;	
 }
 
-.content-box{
+.content-box {
     background:rgba(0,0,0, .6);
     color:white;
     margin-top: 80px;
