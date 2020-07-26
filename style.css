@@ -13,3 +13,8 @@ hr {
     padding: 20px;
     box-shadow: 0px 0px 10px 3px grey;
 }
+
+.portfolio-item {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
