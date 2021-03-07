@@ -18,3 +18,18 @@ hr {
     padding-top: 20px;
     padding-bottom: 30px;
 }
+
+.contact-div {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    
+}
+
+.contact-icon {
+    padding: 2%;
+}
+
+.headers {
+    text-align: center;
+}
